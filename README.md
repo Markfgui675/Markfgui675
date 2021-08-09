@@ -2,7 +2,7 @@
 
 - <h4>🔭 Trabalho hoje com Programação Front-End</h4>
 - <h4>🌱 Estou estudando CSS3 e React</h4>
-- <h4>📫 Entre em contato comigo no instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4>
+- <h4>📫 Entre em contato comigo no instagram: <a href="https://instagram.com/marcos_fellipe_7/" target="_blank" rel="external">@marcos_fellipe_7</a> </h4>
 - <h4>⚡ Fun fact: Adoro programar comendo e escutando música </h4>
 <div>
   <a href="https://github.com/Markfgui675">
