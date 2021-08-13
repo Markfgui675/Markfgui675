@@ -1,9 +1,9 @@
 <h1>😃 Olá! Me chamo Marcos Fellipe Guimarães!</h1>
 
-- <h4>🔭 Trabalho hoje com Programação Front-End</h4>
-- <h4>🌱 Estou estudando CSS3, React e JavaScript</h4>
-- <h4>📫 Entre em contato comigo no instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4>
-- <h4>⚡ Fun fact: Adoro programar comendo e escutando música </h4>
+- <h4>🔭 I'm working today with Front-End Programming</h4>
+- <h4>🌱 Studying CSS3, React and JavaScript</h4>
+- <h4>📫 Contact me on the instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4>
+- <h4>⚡ Fun fact: I love programming eating and listening to music</h4>
 <div>
   <a href="https://github.com/Markfgui675">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markfgui675&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
