@@ -1,4 +1,4 @@
-<h1>😃 Olá! Me chamo Marcos Fellipe Guimarães!</h1>
+<h1>😃 Hey There! My name is Marcos Fellipe Guimarães!</h1>
 
 - <h4>🔭 I'm working today with Front-End Programming</h4>
 - <h4>🌱 Studying CSS3, React and JavaScript</h4>
