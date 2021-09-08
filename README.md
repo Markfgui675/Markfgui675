@@ -4,6 +4,7 @@
 - <h4>🌱 Studying CSS3, React and JavaScript</h4>
 - <h4>📫 Contact me on the instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4>
 - <h4>⚡ Fun fact: I love programming eating and listening to music</h4>
+<br>
 <div>
   <a href="https://github.com/Markfgui675">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markfgui675&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
