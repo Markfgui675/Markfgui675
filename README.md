@@ -1,9 +1,9 @@
 <h1>😃 Hey There! My name is Marcos Fellipe Guimarães!</h1>
 
 - <h4>🔭 I'm working today with Front-End Programming</h4>
-- <h4>🌱 Studying CSS3, React and JavaScript</h4>
+- <h4>🌱 Studying Java, Kotlin and mobile development</h4>
 - <h4>📫 Contact me on the instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4>
-- <h4>⚡ Fun fact: I love programming eating and listening to music</h4>
+- <h4>⚡ Fun fact: I love programming eating and listening music</h4>
 <br>
 <div>
   <a href="https://github.com/Markfgui675">
