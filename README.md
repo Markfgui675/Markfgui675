@@ -19,7 +19,7 @@
   <img align="center" alt="Mark-SQL" height="40" width="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> 
   <img align="center" alt="Mark-As" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Mark-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />    
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/14196d06f96b8a309d90d3c3e7f84d83.gif" width="110" height="110" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/14196d06f96b8a309d90d3c3e7f84d83.gif" width="80" height="80" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
  </div>
 
 ##
