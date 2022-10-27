@@ -13,12 +13,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Mark-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mark-Dart" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />  
   <img align="center" alt="Mark-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mark-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mark-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mark-SQL" height="40" width="50" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> 
   <img align="center" alt="Mark-As" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Mark-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />    
+  <img align="center" alt="Mark-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />       
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/14196d06f96b8a309d90d3c3e7f84d83.gif" width="80" height="80" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
  </div>
 
