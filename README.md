@@ -1,7 +1,7 @@
 <h1>😃 Hey There! My name is Marcos Fellipe Guimarães!</h1>
 
 - <h4>🔭 I'm working today with Mobile Development</h4>
-- <h4>🌱 Studying Java, Kotlin and mobile development</h4>
+- <h4>🌱 Studying Java, Kotlin, Dart and mobile development</h4>
 - <h4>📫 Contact me on the instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4>
 - <h4>⚡ Fun fact: I love programming eating and listening music</h4>
 <br>
