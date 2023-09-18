@@ -1,16 +1,19 @@
 <h1>😃 Hey There!</h1>
 
-- <h4>🔭 I'm working today with Flutter Mobile Development</h4>
-- <h4>🌱 Studying Java, Dart, Flutter and mobile development</h4>
-- <h4>📫 Contact me on the instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4>
-- <h4>⚡ Fun fact: I love programming eating and listening music</h4>
-<br>
-
 <div>
-  <a href="https://github.com/Markfgui675">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markfgui675&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markfgui675&layout=compact&langs_count=7&theme=react"/>
+  <ul>
+    <li><h4>🔭 I'm working today with Flutter Mobile Development</h4></li>
+    <li><h4>🌱 Studying Java, Dart, Flutter and mobile development</h4></li>
+    <li><h4>📫 Contact me on the instagram: <a href="https://instagram.com/marcos_fellipe_7/">@marcos_fellipe_7</a> </h4></li>
+    <li><h4>⚡ Fun fact: I love programming eating and listening music</h4></li>
+  </ul>
+  <ul>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markfgui675&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markfgui675&layout=compact&langs_count=7&theme=react"/>
+  </ul>
 </div>
+  
+<br>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
