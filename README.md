@@ -14,15 +14,10 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="center" alt="Mark-Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Mark-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Mark-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mark-Dart" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />  
-  <img align="center" alt="Mark-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mark-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mark-SQL" height="50" width="60" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> 
-  <img align="center" alt="Mark-As" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Mark-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />       
+  <img align="center" alt="Mark-SQL" height="50" width="60" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>      
  </div>
 
 ##
