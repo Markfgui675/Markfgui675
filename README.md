@@ -2,9 +2,7 @@
 
 <div>
   <ul>
-    <li><h4>🔭 I'm working today with Full Stack Applications</h4></li>
-    <li><h4>🌱 Studying Docker, Django, Node.js</h4></li>
-    <li><h4>⚡ Fun fact: I love programming eating and listening music</h4></li>
+    <li><h4>🌱 Estudando Estatística, Machine Learning, Deep Learning</h4></li>
   </ul>
   <ul>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markfgui675&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
